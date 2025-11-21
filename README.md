@@ -4,3 +4,4 @@
 - [Лекция 2. Теория чисел-1](https://colab.research.google.com/github/vinerdanya/ads-hse-2025/blob/main/Lecture_02.ipynb)
 - [Лекция 3. Рекурсия](https://colab.research.google.com/github/vinerdanya/ads-hse-2025/blob/main/Lecture_03.ipynb)
 - [Лекция 4. Теория чисел-2](https://colab.research.google.com/github/vinerdanya/ads-hse-2025/blob/main/Lecture_04.ipynb)
+- [Лекция 5. Сортировки](https://colab.research.google.com/github/vinerdanya/ads-hse-2025/blob/main/Lecture_05.ipynb)
