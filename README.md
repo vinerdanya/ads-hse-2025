@@ -10,3 +10,4 @@
 - [Лекция 8. Динамическое программирование-2](https://colab.research.google.com/github/vinerdanya/ads-hse-2025/blob/main/Lecture_08.ipynb)
 - [Лекция 9. Задача о рюкзаке](https://colab.research.google.com/github/vinerdanya/ads-hse-2025/blob/main/Lecture_09.ipynb)
 - [Лекция 10. RMQ/RSQ](https://colab.research.google.com/github/vinerdanya/ads-hse-2025/blob/main/Lecture_10.ipynb)
+- [Лекция 11. Стек, очередь, дек. Radix sort](https://colab.research.google.com/github/vinerdanya/ads-hse-2025/blob/main/Lecture_11.ipynb)
