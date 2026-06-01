@@ -1,3 +1,13 @@
 .DS_Store
 smth.ipynb
 module_2/exam_demo.ipynb
+*.aux
+*.fls
+*.fdb_latexmk
+*.listing
+*.log
+*.out
+*.synctex.gz
+*.toc
+module_4/colloq/programm.tex
+module_4/colloq/rules.tex
